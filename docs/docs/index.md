@@ -6,5 +6,5 @@ Här hittar du all information du behöver för att förstå, använda och bidra
 
 ## Innehåll
 
-- [Arkitektur](./architecture.md)
-- [Användning](./usage.md)
+- [Arkitektur](architecture)
+- [Användning](usage)
