@@ -4,7 +4,9 @@ kind: Component
 metadata:
   name: bs-exp-a-1
   description: API som räddar världen
+  annotations:
+    backstage.io/techdocs-ref: dir:./docs
 spec:
   type: service
   lifecycle: production
-  owner: team-thomas
+  owner: team-ironman
