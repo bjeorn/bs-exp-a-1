@@ -1,10 +1,10 @@
 # Arkitektur
 
-Den här tjänsten är byggd i Node.js och består av följande komponenter:
+Den här tjänsten bygger på en solid mikroservice-arkitektur, vilket innebär:
 
-- Express.js-server
-- MongoDB-databas
-- RabbitMQ för meddelandehantering
+- REST API via MicroProfile
+- PostgreSQL för data
+- Magi™ som kopplar ihop allt
 
 ![Arkitekturdiagram](./architecture-diagram.png)
 
