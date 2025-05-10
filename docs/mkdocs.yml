@@ -1,9 +1,9 @@
 site_name: My Service Docs
 
 nav:
-  - Hem: index.md
-  - Arkitektur: architecture.md
-  - Användning: usage.md
+  - Home: index.md
+  - Architecture: architecture.md
+  - Usage: usage.md
 
 plugins:
   - techdocs-core

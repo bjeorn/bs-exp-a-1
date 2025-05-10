@@ -4,5 +4,5 @@ Välkommen till dokumentationen för **My Service**!
 
 ## Innehåll
 
-- [Arkitektur](architecture.md)
-- [Användning](usage.md)
+- [Architecture](architecture.md)
+- [Usage](usage.md)
